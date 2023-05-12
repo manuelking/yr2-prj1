@@ -5,7 +5,7 @@ https://selene.hud.ac.uk/u1959809/yr2prj1/login.php
 
 ## About this project
 
-## Assignment: Web Development
+### Assignment: Web Development
 
 ### Programming anguages and tools: 
 HTML, CSS, PHP. Additionally, XAMPP was used to host the application on a local web server, as well as phpMyAdmin to manage the MySQL database.
